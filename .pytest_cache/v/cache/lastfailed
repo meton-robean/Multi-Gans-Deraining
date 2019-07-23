@@ -1,0 +1,5 @@
+{
+  "data.py::test_read_data": true,
+  "test(3).py::test_norm": true,
+  "test5.py::test": true
+}
